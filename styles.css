@@ -1,0 +1,39 @@
+.logospace {
+    padding:40px;
+}
+
+
+.title{
+    color:#ababab;
+    text-align: center;
+    background-color: #efefef;
+    border-color: #888888;
+    padding:10px;
+}
+
+.title span{
+    color:#dedede;
+}
+
+.bookmarkPadding{
+    padding:20px;
+}
+
+a{
+    color:#f68d2c;
+    
+}
+
+a:hover, a:visited, a:active{
+color:#f68d2c;
+}
+
+.footer{
+    padding-top:40px;
+    border-top:1px solid #dedede;
+}
+
+.bookmarkbody{
+    padding-top:40px;
+    padding-bottom:40px;
+}
